@@ -1,0 +1,17 @@
+This dataset corresponds to a dynamic response-recovery curve
+of a polyaniline (PANI) film carried out with controlled ammonia 
+exposure between 50 and 500 ppm. 
+
+Each exposure cycle was set to 15 min and and the recovery to 45 min.
+By setting the visualization parameters starting from 3 and setting
+start to zero, the exposure routine information is described in 
+the table below:
+
+
+conc (ppm)	startExpTime	EndExpTime	EndRecTime
+50.00		15		30		75
+100.00		75		90		135
+200.00		135		150		195
+300.00		195		210		255
+400.00		255		270		315
+500.00		315		330		344

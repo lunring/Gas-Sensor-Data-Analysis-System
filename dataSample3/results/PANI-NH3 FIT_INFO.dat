@@ -1,0 +1,9 @@
+# 02/20/2021, 21:33:11 
+# resultsAmadou 
+
+Power Law Fit function
+Response = a*(Conc.)^b
+
+
+fit ch1: a=21.10, b=0.52
+sensitivity = 0.79 %/ppm,R-sq = 0.979

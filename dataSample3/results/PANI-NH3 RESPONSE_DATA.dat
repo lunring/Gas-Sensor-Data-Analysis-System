@@ -1,0 +1,15 @@
+# 02/20/2021, 21:33:11 
+# resultsAmadou 
+
+# Properties data 
+# Response in %
+# Resp and Rec times unit: min
+
+
+cycle	concentration	ch1 resp	ch1 respTime	ch1 recTime
+1	    50.000	   155.441	     7.000	    17.000
+2	   100.000	   230.976	     6.000	    14.500
+3	   200.000	   329.459	     6.000	    12.500
+4	   300.000	   398.289	     6.500	    11.500
+5	   400.000	   461.649	     6.500	    10.500
+6	   500.000	   525.794	     7.000	     4.500

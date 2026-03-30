@@ -1,0 +1,14 @@
+This dataset corresponds to four different rGO-based sensors
+whose electrical resistance was recorded by controlled
+exposures of NO2, between 0.5 and 5 ppm. Each exposure cycle
+lasted 10 min and the recovery 50 min.
+
+By setting the visualization parameters between 310 and 650,
+the exposure routine information is described in the table below:
+
+
+cycle	conc	startTime	EndRespTime	EndRecTime
+1	0.5	50		60		110
+2	1	110		120		170
+3	2	170		180		230
+4	5	230		240		290

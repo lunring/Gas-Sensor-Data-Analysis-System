@@ -1,0 +1,30 @@
+This dataset corresponds to a stability test carried out on two 
+ZnO-based sensors upon controlled O3 exposure between 50 and 
+500 ppb during one month. Channels 1, 2, and 3 are the data from
+ one sensor measured on three different weeks, while data from 
+channels 4, 5, and 6 are the data from another similar sample 
+measured at the same three weeks.
+
+Each exposure cycle was set to 15 min and the recovery to 60 min.
+By setting the visualization parameters between 670 and 2000,
+the exposure routine information is described in the table below:
+
+
+cycle	conc	startTime	EndRespTime	EndRecTime
+1	50	50		65		125
+2	50	125		140		200
+3	50	200		215		275
+4	50	275		290		350
+5	50	350		365		425
+6	100	425		440		500
+7	100	500		515		575
+8	100	575		590		650
+9	100	650		665		725
+10	250	725		740		800
+11	250	800		815		875
+12	250	875		890		950
+13	250	950		965		1025
+14	500	1025		1040		1100
+15	500	1100		1115		1175
+16	500	1175		1190		1250
+17	500	1250		1265		1325

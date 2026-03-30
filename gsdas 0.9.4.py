@@ -1,5 +1,6 @@
 import sys
 import matplotlib
+import matplotlib.pyplot as plt
 import pandas as pd
 from datetime import datetime
 from scipy import stats, optimize
@@ -29,7 +30,7 @@ class GasSensorDataAnalysisSystem(QMainWindow):
         self.setWindowTitle('Gas Sensor Data Analysis System v0.9.4')
         self.setGeometry(50, 50, 1350, 900)
 
-        matplotlib.style.use('bmh')
+        plt.style.use('bmh')
         matplotlib.use('Qt5Agg')
 
         #---DATA FRAMES---#
@@ -1840,16 +1841,16 @@ class GasSensorDataAnalysisSystem(QMainWindow):
 
             # 3
             if self.matplotlibStyleOpt1.isChecked():
-                matplotlib.style.use('bmh')
+                plt.style.use('bmh')
 
             elif self.matplotlibStyleOpt2.isChecked():
-                matplotlib.style.use('seaborn')
+                plt.style.use('seaborn-v0_8')
 
             elif self.matplotlibStyleOpt3.isChecked():
-                matplotlib.style.use('grayscale')
+                plt.style.use('grayscale')
 
             elif self.matplotlibStyleOpt4.isChecked():
-                matplotlib.style.use('default')
+                plt.style.use('default')
 
 
             # 4
