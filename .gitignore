@@ -1,0 +1,13 @@
+# 本地测试数据文件夹
+local_test_data/
+
+# Python 虚拟环境
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE 配置
+.vscode/
+.idea/
